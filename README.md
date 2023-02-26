@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hello World! 👋
 
-<!--
-**camilorocca/camilorocca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Camilo, a Junior Full Stack Developer with a strong passion for
+- 👨‍💻 learning new technologies
+- 👯 working in team environments
+- 🎯 building user-centric digital products.
 
-Here are some ideas to get you started:
+I love UX & UI design and I'm bringing my passion for good design into code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently I'm:
+- 🌱 Focusing on improving in React & NodeJS, learning MongoDB & Storybook
+- ⚒️ working on the projects I did in Factoria F5 when I started my coding journey, & my portfolio
+- 🤑 looking for an employer interested in my skills ;)
+
