@@ -1,6 +1,6 @@
 # Hello World! 👋
 
-I'm Camilo, a Designer & Full Stack Developer with a strong passion for:
+I'm Camilo, Designer & Full Stack Developer with a strong passion for:
 - 👨‍💻 new technologies
 - 👯 working in team environments
 - 🎯 building user-centric digital products.
