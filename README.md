@@ -1,7 +1,7 @@
-### Hello World! 👋
+# Hello World! 👋
 
-I'm Camilo, a Junior Full Stack Developer with a strong passion for:
-- 👨‍💻 learning new technologies
+I'm Camilo, a Designer & Full Stack Developer with a strong passion for:
+- 👨‍💻 new technologies
 - 👯 working in team environments
 - 🎯 building user-centric digital products.
 
